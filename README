@@ -1,0 +1,3 @@
+# HTTP Text Proxy
+
+This is a simple web app which takes a url and returns a the text representation of the resource
